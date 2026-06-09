@@ -29,8 +29,6 @@
         },
         "editor.fontSize": 18,
         "extensions.ignoreRecommendations": true,
-        "unwantedRecommendations": ["ms-python.vscode-python-envs"],
-        "terminal.integrated.defaultProfile.windows": "Git Bash",
         "window.restoreWindows": "preserve",
         "workbench.editorAssociations": {
           "*.md": "vscode.markdown.preview.editor"
