@@ -25,7 +25,7 @@
     "sql": false,
     "jupyter": false
   },
-  "chat.agent.enabled": false
+  "chat.agent.enabled": false,
   "python.defaultInterpreterPath": "/usr/bin/python3",
   "jupyter.askForKernelRestart": false,
   "notebook.cellToolbarLocation": {
